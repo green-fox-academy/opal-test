@@ -3,7 +3,7 @@
  */
 public class B {
 
-  public void count() {
-    System.out.println("6");
+  public void count(int age) {
+    System.out.println(6);
   }
 }
