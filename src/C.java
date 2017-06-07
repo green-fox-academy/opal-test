@@ -1,5 +1,5 @@
 public class C {
-  public void cheer(String name) {
-    System.out.println(name);
+  public void cheer() {
+    System.out.println("My base language is java.");
   }
 }
