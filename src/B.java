@@ -3,7 +3,7 @@
  */
 public class B {
 
-  public void count() {
-    System.out.println("I'm 26 years old.git ");
+  public void count(int age) {
+    System.out.println(6);
   }
 }
