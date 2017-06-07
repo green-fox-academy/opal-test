@@ -3,7 +3,7 @@
  */
 public class B {
 
-  public void count(int age) {
-    System.out.println(6);
+  public void count(int age, int wantAge) {
+    System.out.println("I'm " + age + ", but I'm want to be " + wantAge + ".");
   }
 }
