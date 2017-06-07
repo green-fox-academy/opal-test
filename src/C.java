@@ -1,5 +1,5 @@
 public class C {
-  public void cheer(String first, String second) {
-    System.out.println(first + " and " + second);
+  public void cheer(String parameter) {
+    System.out.println("Counting the countless" +  parameter);
   }
 }
